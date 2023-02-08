@@ -10,3 +10,4 @@
 # 9-firstdirdeletion:delete /tmp/my_first_directory
 # 10-back:change working directory to previous one
 # 11-lists:lists all files even hidden in the current directory and the parent of the working directory and the /boot directory in long format
+# 12-file_type:prints the type of file named iamafile in /tmp
