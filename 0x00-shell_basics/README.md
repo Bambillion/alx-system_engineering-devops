@@ -7,3 +7,4 @@
 # 6-firstdirectory:create my_first_directory in /tmp/
 # move betty from /tmp/ /tmp/my_first_directory/
 delete /tmp/my_first_directory/betty
+# 9-firstdirdeletion:delete /tmp/my_first_directory
