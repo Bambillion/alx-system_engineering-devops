@@ -13,3 +13,4 @@
 # 12-file_type:prints the type of file named iamafile in /tmp
 # 13-symbolic_link:Create a symbolic link to /bin/ls
 # 14-copy_html:copy html files in working directory to parent
+# 100-lets_move:moves all files beginning with an uppercase letter to the directory /tmp/u
