@@ -5,6 +5,7 @@
 # 4-listmorefiles:display current directory content including hidden files in long format
 # 5-listfilesdigitonly:display current directory content along with hidden files in long format with user and group ID
 # 6-firstdirectory:create my_first_directory in /tmp/
-# move betty from /tmp/ /tmp/my_first_directory/
-delete /tmp/my_first_directory/betty
+# 7-movethatfile:move betty from /tmp/ /tmp/my_first_directory/
+# 8-firstdelete:delete /tmp/my_first_directory/betty
 # 9-firstdirdeletion:delete /tmp/my_first_directory
+# 10-back:change working directory to previous one
