@@ -8,3 +8,7 @@
 # 7-everybody:Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 # 8-James_Bond:Write a script that sets the permission to the file hello for the owner and group with no permission at all and grant all the permission to all other users
 # 9-John_Doe:write a script that sets the mode of the file hello to this:rwxr-x-wx
+# 10-mirror_permissions: Write a script that sets the mode of the file hello the same as olleh’s mode 
+# 11-directories_permissions: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+# 12-directory_permissions: Create a script that creates a directory called myydir with permissions 751 in the working directory
+# 13-change_group: Write a script that changes the group owner to school for the file hello
