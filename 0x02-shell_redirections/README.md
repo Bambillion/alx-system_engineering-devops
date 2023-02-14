@@ -12,3 +12,11 @@ About It
 - **7-file:** Create a file named exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" containing the string Best School
 - **8-cwd_state:** Write the result of the command ls -la into the file ls_cwd_content if it doesn't exist and overwrite it if it does.
 - **9-duplicate_last_line:** Duplicate the last line of iacta
+- **10-no_more_js:** Delete all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+- **11-directories:** A script that counts the number of directories and sub-directories in the current directory taking into account hidden directories and not counting the current and parent directory
+- **12-newest_files:** A script that displays the 10 newest files in the current directory
+- **13-unique:** receive words as input and prints only words that appear exactly once from input
+- **14-findthatword:** Display lines that contain the pattern "root" from the file /etc/passwd
+- **15-countthatword:** Display the number of lines that contain the pattern "bin" in the file /etc/passwd
+- **16-whatsnext:** Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+- **17-hidethisword:** Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
