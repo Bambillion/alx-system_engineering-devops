@@ -27,3 +27,4 @@ About It
 - **22-users_and_homes:** Write a script that displays all users and their home directories, sorted by users
 - **100-empty_casks:** Write a command that finds all empty files and directories in the current directory and all sub-directories
 - **101-gifs:** List all the files with a .gif extension in the current directory and all its sub-directories
+- **102-acrostic:** Create a script that decodes acrostics that use the first letter of each line
