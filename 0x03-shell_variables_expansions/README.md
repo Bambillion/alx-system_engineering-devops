@@ -1,7 +1,9 @@
-README<br>
-About<br>
-- **0-alias:**Create a script that creates an alias
-- **1-hello_you:**Create a script that prints hello user, where user is the current Linux user
+# README<br>
+************************************************************
+# About<br>
+******************************************************
+- **0-alias:** Create a script that creates an alias
+- **1-hello_you:** Create a script that prints hello user, where user is the current Linux user
 - **2-path:** Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
 - **3-paths:** Create a script that counts the number of directories in the PATH
 - **4-global_variables:** Create a script that lists environment variables
@@ -16,4 +18,5 @@ About<br>
 - **13-print_float:** Write a script that prints a number with two decimal places, followed by a new line
 - **100-decimal_to_hexadecimal:** Write a script that converts a number stored in an environment DECIMAL variable from base 10 to base 16
 - **101-rot13:** Write a script that encodes and decodes text using the rot13 encryption, Assume ASCII
-- **102-odd:** Write a script that prints every other line from the input, starting with the first line 
+- **102-odd:** Write a script that prints every other line from the input, starting with the first line
+- **103-water_and_stir:** Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result with variable WATER stored in base water and baseSTIR store in base stir but the result should be in base bestchol 
